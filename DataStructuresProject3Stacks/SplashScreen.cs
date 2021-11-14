@@ -26,11 +26,10 @@ namespace DataStructuresProject3Stacks
         public SplashScreen()
         {
             InitializeComponent();
-            this.Text = String.Format("Splash {0}", Application.ProductName);
         }
 
         /// <summary>
-        /// The SplashScreen_Load.
+        /// The SplashScreen_Load is a method that displays the version and project name on the splash screen after it is loaded.
         /// </summary>
         /// <param name="sender">The sender<see cref="object"/>.</param>
         /// <param name="e">The e<see cref="EventArgs"/>.</param>
@@ -41,7 +40,7 @@ namespace DataStructuresProject3Stacks
         }
 
         /// <summary>
-        /// The timer1_Tick.
+        /// The timer1_Tick closes the splash screen after a defined time.
         /// </summary>
         /// <param name="sender">The sender<see cref="object"/>.</param>
         /// <param name="e">The e<see cref="EventArgs"/>.</param>

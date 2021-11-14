@@ -2,7 +2,7 @@
 //
 //	Solution/Project:  Data Structures Project 3 Stacks
 //	File Name:         Operator.cs
-//	Description:       YOUR DESCRIPTION HERE
+//	Description:       This class helps evaluate operators. 
 //	Course:            CSCI 2210 - Data Structures	
 //	Author:            Joshua Trimm, trimmj@etsu.edu
 //	Created:           11/13/2021

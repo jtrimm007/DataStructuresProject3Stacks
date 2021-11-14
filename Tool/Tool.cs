@@ -2,7 +2,7 @@
 //
 //	Solution/Project:  Data Structures Project 3 Stacks
 //	File Name:         Tool.cs
-//	Description:       YOUR DESCRIPTION HERE
+//	Description:       This tool class was pulled from a previous project and was mainly used to tokenize and evaluate strings. 
 //	Course:            CSCI 2210 - Data Structures	
 //	Author:            Joshua Trimm, trimmj@etsu.edu
 //	Created:           11/13/2021
