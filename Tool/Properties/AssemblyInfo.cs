@@ -1,15 +1,27 @@
-﻿using System.Reflection;
-using System.Runtime.CompilerServices;
+﻿///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//	Solution/Project:  Data Structures Project 3 Stacks
+//	File Name:         AssemblyInfo.cs
+//	Description:       YOUR DESCRIPTION HERE
+//	Course:            CSCI 2210 - Data Structures	
+//	Author:            Joshua Trimm, trimmj@etsu.edu
+//	Created:           11/13/2021
+//	Copyright:         Joshua Trimm, 2021
+//
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+using System.Reflection;
 using System.Runtime.InteropServices;
+
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Data Structures Project 3 Stacks")]
-[assembly: AssemblyDescription("This is a project to practice our knowledge and skills of Stacks in .Net.")]
+[assembly: AssemblyTitle("Tool")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("TrimYard")]
-[assembly: AssemblyProduct("Data Structures Project 3 Stacks")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Tool")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +32,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d6ccf3f0-971b-4277-85aa-327941d2fc7b")]
+[assembly: Guid("beeb87ce-b117-4873-9230-172965acc2ba")]
 
 // Version information for an assembly consists of the following four values:
 //
